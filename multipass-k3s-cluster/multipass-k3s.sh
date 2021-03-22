@@ -8,7 +8,7 @@ IMAGE="focal"
 # How many additional server instances to create
 SERVER_COUNT_MACHINE="0"
 # How many agent instances to create
-AGENT_COUNT_MACHINE="1"
+AGENT_COUNT_MACHINE="2"
 # How many CPUs to allocate to each machine
 SERVER_CPU_MACHINE="2"
 AGENT_CPU_MACHINE="1"
